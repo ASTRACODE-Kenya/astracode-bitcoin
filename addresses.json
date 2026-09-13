@@ -1,0 +1,16 @@
+{
+  "network": "testnet",
+  "generatedAt": "2026-09-12T12:45:51.407Z",
+  "voteAddresses": {
+    "A": {
+      "label": "A",
+      "address": "tb1q7u4u2kks9zh08p84wdlet8ur77870w0vq6slv4",
+      "purpose": "Yes"
+    },
+    "B": {
+      "label": "B",
+      "address": "tb1qmd9qshpp5c9dcgmtjv3advaq3cj5mvhktg7vhk",
+      "purpose": "No"
+    }
+  }
+}
